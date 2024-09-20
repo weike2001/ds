@@ -2,10 +2,9 @@
 
 ## Project Team
 - Weike ZHANG
-- Ruoqin JI
 
 ## Date
-May 2024
+Dec 2024
 
 ## Project Overview
 The QS World University Rankings Analysis Project aims to analyze ranking trends from 2022 to 2024, uncovering patterns and determinants of university performance globally. This empirical study will serve as a guide for stakeholders in the education sector, providing insights and data-driven recommendations for educational institutions aiming to improve their standings.
